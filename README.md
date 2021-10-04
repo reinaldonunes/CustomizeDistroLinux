@@ -28,9 +28,15 @@ Mas se você preferir uma dock mais elegante e prática, pode então optar por i
 ![Plank dock](../main/assets/customize-img-04.png)
 
 Para instalar, há duas formas:
-[x] Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto!
+- [x] Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto!
 
-[x] No terminal, digite 'sudo add-apt-repository -y ppa:ricotz/docky' e digite sua senha de root. Depois, atualize o APT utilizando 'sudo apt-get update' e depois 'sudo apt-get install plank'. Com isso, o Plank será instalado corretamente.
+- [x] No terminal, digite:
+```
+sudo add-apt-repository -y ppa:ricotz/docky
+sudo apt-get update
+sudo apt-get install plank
+```
+Com isso, o Plank será instalado corretamente.
 
 
 # APLICANDO TEMAS DE TERCEIROS
