@@ -3,15 +3,12 @@ Sem dúvida, a customização do seu sistema operacional diz muito sobre sua per
 Como base desse mini tutorial, estou utilizando o Zorin Core 16, baseado no Ubuntu 20.04 LTS e com DE Gnome 3.38.
 
 # CUSTOMIZAÇÃO PADRÃO
-Todo sistema operacional possui no menu Configurações, uma parte dedicada a customização padrão da interface. No caso do Zorin, há o aplicativo Zorin Appearence, que nos permite modificar a forma de apresentação do workflow, o tema de cores, configurações dos ícones e também das fontes. Particularmente, gosto do tema de cores Dark e do layout Gnome, com todos os aplicativos disponíveis (como na foto abaixo)
+Todo sistema operacional possui no menu Configurações, uma parte dedicada a customização padrão da interface. No caso do Zorin, há o aplicativo Zorin Appearence, que nos permite modificar a forma de apresentação do workflow, o tema de cores, configurações dos ícones e também das fontes. Particularmente, gosto do tema de cores Dark e do layout Gnome, com todos os aplicativos disponíveis (como na foto abaixo) <br />
 ![Tela de apresentação do Zorin Appearence](../main/assets/customize-img-01.png)
 
-- PLANO DE FUNDO
+### PLANO DE FUNDO
 Aaa
 ![Configurando e alterando o plano de fundo](../main/assets/customize-img-02.png)
-
-- TASKBAR
-aaaaa \'código'\
 
 
 # ADICIONANDO UMA DOCK
