@@ -38,6 +38,8 @@ sudo apt-get install plank
 ```
 Com isso, o Plank será instalado corretamente.
 
+** Se você não gostar do Plank, pode desinstalá-lo via loja de aplicativos ou pelo terminal com `sudo apt-get remove plank --auto-remove`.
+
 
 # APLICANDO TEMAS DE TERCEIROS
 Há também outras formas de customizar a sua distro que é através de sites como o [DeviantArt](https://www.deviantart.com/) e o [Gnome-Look](https://www.gnome-look.org/s/Gnome/browse/). Neles, é possível baixar diversos temas de desktop, icones, grub, entre outros.
@@ -58,7 +60,11 @@ Além dessas opções, você também pode instalar e utilizar o *Gnome Tweaks* o
 
 ![Gnome-Tweaks](../main/assets/customize-img-06.png)
 
-Se prefir, também poderá instalar a ferramenta via terminal. Basta digitar `sudo apt install gnome-tweaks`, colocar sua senha root e aguardar.
+Se prefir, também poderá instalar a ferramenta via terminal. Primeiro, atualize o APT com `sudo apt update` e depois instale digitando `sudo apt install gnome-tweaks`, colocar sua senha root e aguardar.
+
 
 # INSTALANDO TEMAS VIA TERMINAL
-aaaa
+Se você quiser se aventurar mais pelo Linux, poderá fazer customizações diretas via terminal. Na internet é possível encontrar diversos sites que orientam como fazer, já que cada tema terá seu método específico de ser instalado. Para saber mais, recomendo ler este post do site **[Viva o Linux](https://www.vivaolinux.com.br/dica/Como-instalar-temas-no-Ubuntu-1110)**, a maior comunidade de usuários GNU/Linux da América Latina.
+
+
+Então é isso! Espero que tenha gostado e que as dicas possam te auxiliar a desvendar e se apaixonar cada vez mais pelo universo Linux e suas distribuições!
