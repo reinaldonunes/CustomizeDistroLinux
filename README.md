@@ -40,7 +40,7 @@ Com isso, o Plank será instalado corretamente.
 
 
 # APLICANDO TEMAS DE TERCEIROS
-Há também outras formas de customizar a sua distro que é através de sites como o DeviantArt e o Gnome-Look. Neles, é possível baixar diversos temas de desktop, icones, grub, entre outros.
+Há também outras formas de customizar a sua distro que é através de sites como o [DeviantArt](https://www.deviantart.com/) e o [Gnome-Look](https://www.gnome-look.org/s/Gnome/browse/). Neles, é possível baixar diversos temas de desktop, icones, grub, entre outros.
 
 1. Acesse o site do Gnome-Looks e pesquiser por algum tema de seu gosto (como MacOs, Fluent, Rounded Theme, etc).
 2. Clique no botão Download. Vai aparecer uma lista de pacotes para você escolher e baixar. Clique sobre algum do seu gosto.
@@ -58,7 +58,7 @@ Além dessas opções, você também pode instalar e utilizar o *Gnome Tweaks* o
 
 ![Gnome-Tweaks](../main/assets/customize-img-06.png)
 
-Se prefir, também poderá instalar a ferramenta via terminal. Basta digitar 'sudo apt install gnome-tweaks', colocar sua senha root e aguardar.
+Se prefir, também poderá instalar a ferramenta via terminal. Basta digitar `sudo apt install gnome-tweaks`, colocar sua senha root e aguardar.
 
 # INSTALANDO TEMAS VIA TERMINAL
 aaaa
