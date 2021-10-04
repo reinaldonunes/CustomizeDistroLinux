@@ -17,19 +17,24 @@ Distros como o Ubuntu tem uma dock lateral, mas com pouca personalização nativ
 
 Caso a sua distro não tenha uma dock nativa (como é o caso do Zorin OS), há algumas formas de você adicionar ela ao sistema.
 
-## APLICANDO A EXTENSÃO DASH TO DOCK
+### APLICANDO A EXTENSÃO DASH TO DOCK
 Há uma extensão para o ambiente GNOME disponível no site [Gnome Extensions](https://extensions.gnome.org/extension/307/dash-to-dock/).  Primeiramente, se você não tiver uma extensão GNOME instalada no seu browser, o site irá notificar e solicitar a instalação. Após terminar a instalação no browser, basta recarregar a página e clicar no botão **ON/OFF**, para ligar ou desligar a dock. Após ligar ela, basta personalizar como desejar.
 
 ![Adicionando a extensão Dash to Dock via browser](../main/assets/customize-img-03.png)
 
-## PLANK DOCK
+### PLANK DOCK
 Mas se você preferir uma dock mais elegante e prática, pode então optar por instalar o Plank. O plank cria uma dock integrada no seu sistema, podendo ser facilmente personalizada e customizada, desde aparência, comportamento e também posição.
 
 ![Plank dock](../main/assets/customize-img-04.png)
 
 Para instalar, há duas formas:
-- Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto!
+- Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto! 
+![Plank na Loja de aplicativos](../main/assets/customize-img-05.png)
+
 - Abra o seu terminal, e digite o seguinte:
+'''
+sudo apt install plank
+'''
 
 
 
