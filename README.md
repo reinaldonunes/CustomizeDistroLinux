@@ -4,8 +4,7 @@ Como base desse mini tutorial, estou utilizando o Zorin Core 16, baseado no Ubun
 
 # CUSTOMIZAÇÃO PADRÃO
 Todo sistema operacional possui no menu Configurações, uma parte dedicada a customização padrão da interface. No caso do Zorin, há o aplicativo Zorin Appearence, que nos permite modificar a forma de apresentação do workflow, o tema de cores, configurações dos ícones e também das fontes. Particularmente, gosto do tema de cores Dark e do layout Gnome, com todos os aplicativos disponíveis (como na foto abaixo)
-![Tela de apresentação do Zorin Appearence](https://raw.githubusercontent.com/reinaldonunes/CustomizeDistroLinux/main/assets/customize-img-01.png)
-![Optional Text](https://raw.githubusercontent.com/reinaldonunes/CustomizeDistroLinux/main/assets/customize-img-01.png?token=ADSJHE2VQEFGHBNVI6Y7XHDBLM3CO)
+![Tela de apresentação do Zorin Appearence](https://raw.githubusercontent.com/reinaldonunes/CustomizeDistroLinux/main/assets/customize-img-01.png?token=ADSJHEZKMQBU6IUOI37DWO3BLM3GC)
 
 - PLANO DE FUNDO
 Aaa
