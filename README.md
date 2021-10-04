@@ -66,5 +66,5 @@ Se prefir, também poderá instalar a ferramenta via terminal. Primeiro, atualiz
 # INSTALANDO TEMAS VIA TERMINAL
 Se você quiser se aventurar mais pelo Linux, poderá fazer customizações diretas via terminal. Na internet é possível encontrar diversos sites que orientam como fazer, já que cada tema terá seu método específico de ser instalado. Para saber mais, recomendo ler este post do site **[Viva o Linux](https://www.vivaolinux.com.br/dica/Como-instalar-temas-no-Ubuntu-1110)**, a maior comunidade de usuários GNU/Linux da América Latina.
 
-
+##
 Então é isso! Espero que tenha gostado e que as dicas possam te auxiliar a desvendar e se apaixonar cada vez mais pelo universo Linux e suas distribuições!
