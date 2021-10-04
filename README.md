@@ -1,6 +1,6 @@
 Sem dúvida, a customização do seu sistema operacional diz muito sobre sua personalidade, seu workflow e seus gostos. Apesar de sistemas como Windows possibilitarem customizações, de longe as realizadas em distros Linux são as melhores e mais fáceis, ao meu ver, de serem realizadas.
 
-Como base desse mini tutorial, estou utilizando o Zorin Core 16, baseado no Ubuntu 20.04 LTS e com DE Gnome 3.38.
+> Para estas dicas, foi utilizado o sistema Zorin Core 16, baseado no Ubuntu 20.04 LTS e com DE Gnome 3.38.
 
 # CUSTOMIZAÇÃO PADRÃO
 Todo sistema operacional possui no menu Configurações, uma parte dedicada a customização padrão da interface. No caso do Zorin, há o aplicativo Zorin Appearence, que nos permite modificar a forma de apresentação do workflow, o tema de cores, configurações dos ícones e também das fontes. Particularmente, gosto do tema de cores Dark e do layout Gnome, com todos os aplicativos disponíveis (como na foto abaixo)
@@ -38,7 +38,7 @@ sudo apt-get install plank
 ```
 Com isso, o Plank será instalado corretamente.
 
-** Se você não gostar do Plank, pode desinstalá-lo via loja de aplicativos ou pelo terminal com `sudo apt-get remove plank --auto-remove`.
+> Se você não gostar do Plank, pode desinstalá-lo via loja de aplicativos ou pelo terminal com `sudo apt-get remove plank --auto-remove`.
 
 
 # APLICANDO TEMAS DE TERCEIROS
