@@ -28,11 +28,10 @@ Mas se você preferir uma dock mais elegante e prática, pode então optar por i
 ![Plank dock](../main/assets/customize-img-04.png)
 
 Para instalar, há duas formas:
-- Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto! 
+-> Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto! 
 ![Plank na Loja de aplicativos](../main/assets/customize-img-05.png)
 
-
-- Abra o seu terminal, e digite o seguinte:
+-> Abra o seu terminal, e digite o seguinte:
 '''
 sudo apt install plank
 '''
