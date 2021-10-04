@@ -28,15 +28,31 @@ Mas se você preferir uma dock mais elegante e prática, pode então optar por i
 ![Plank dock](../main/assets/customize-img-04.png)
 
 Para instalar, há duas formas:
--> Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto! 
-![Plank na Loja de aplicativos](../main/assets/customize-img-05.png)
+[x] Abrindo a sua central de programas (ou loja de aplicativos), procure por Plank, depois clique em instalar, aguarde completar e pronto!
 
-
-
+[x] No terminal, digite 'sudo add-apt-repository -y ppa:ricotz/docky' e digite sua senha de root. Depois, atualize o APT utilizando 'sudo apt-get update' e depois 'sudo apt-get install plank'. Com isso, o Plank será instalado corretamente.
 
 
 # APLICANDO TEMAS DE TERCEIROS
-aaa
+Há também outras formas de customizar a sua distro que é através de sites como o DeviantArt e o Gnome-Look. Neles, é possível baixar diversos temas de desktop, icones, grub, entre outros.
+
+1. Acesse o site do Gnome-Looks e pesquiser por algum tema de seu gosto (como MacOs, Fluent, Rounded Theme, etc).
+2. Clique no botão Download. Vai aparecer uma lista de pacotes para você escolher e baixar. Clique sobre algum do seu gosto.
+3. Na caixa de diálogo que abrir, clique novamentem em Download e aguarde.
+4. Na próxima janela que abrir, marque a opção *Abrir* e depois clique em *Ok*.
+5. Irá aparecer os itens internos do pacote. Clique me *Extrair*. 
+6. Vai aparecer as pastas do seu sistema. Pressione *CTRL+H* para exibir as pastas ocultas e encontre a que se chama *.themes*. Se não existir, você mesmo poderá criá-la.
+7. Dentro da pasta .themes, clique no botão *extrair* para baixar completamente o tema.
+8. Após baixado, basta ir nas configurações padrões do seu sistema e selecionar o tema que foi baixado (veja a primeira seção deste tutorial).
+
+![Capturas do passo a passo do tema](../main/assets/customize-img-05.png)
+
+### USANDO O GNOME-TWEAKS COMO AUXILIAR
+Além dessas opções, você também pode instalar e utilizar o *Gnome Tweaks* ou *Ajustes do Gnome* para ter ainda mais poder de configuração e customização na sua distro. Basta abrir a loja de aplicativos e pesquisar por um dos termos mencionados anteriormente para poder utilizá-lo na máquina.
+
+![Gnome-Tweaks](../main/assets/customize-img-06.png)
+
+Se prefir, também poderá instalar a ferramenta via terminal. Basta digitar 'sudo apt install gnome-tweaks', colocar sua senha root e aguardar.
 
 # INSTALANDO TEMAS VIA TERMINAL
 aaaa
